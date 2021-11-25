@@ -1,0 +1,44 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Our Plans
+  pricing_table :
+    # pricing table loop
+    - name : Free
+      price : $99
+      unit : month
+      services:
+        - Nothing
+      button:
+        label : "Buy"
+        link : "#"
+      
+    # pricing table loop
+    - name : Silver
+      price : $149
+      unit : month
+      services:
+        - Nothing but more expensive
+      button:
+        label : "Buy"
+        link : "#"
+        
+    # pricing table loop
+    - name : Gold
+      price : $690
+      unit : month
+      services:
+        - Ransomware delivery in less than 5 minutes
+      button:
+        label : "Buy"
+        link : "#"
+        
+    # pricing table loop
+    - name : H4c5or
+      price : $1337
+      unit : month
+      services:
+        - Penetration test
+      button:
+        label : "Buy"
+        link : "#"

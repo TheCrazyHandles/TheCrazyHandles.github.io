@@ -1,0 +1,27 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Skills
+  subtitle : We’ve skilled in wide range of topics.
+  content : We are a new company, with literally no clients, that's constantly growing.
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Business Development
+      percent : 0%
+      
+    # skill item loop
+    - name :  Analysis
+      percent : 30%
+      
+    # skill item loop
+    - name :  Overthinking
+      percent : 102%
+
+    # skill item loop
+    - name :  Design
+      percent : 01%
+      
+    - name :  Penetration
+      percent : 50%
+      

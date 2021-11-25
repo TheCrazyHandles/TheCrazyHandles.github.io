@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/security.webp"
+  bg_image : "images/backgrounds/security.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Finding holes in your systems"
+  content : "Welcome to the next security level of your company"
+  button:
+    enable : true
+    label : "Who we are?"
+    link : "#about"

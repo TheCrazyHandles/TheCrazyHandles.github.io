@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-timer # themify icon pack : https://themify.me/themify-icons
+    title : Expeditive
+    content : We are fast, we've even created this mediocre company in 1 day. Yeah, crazy right?
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Professionals
+    content : We are professionals, we know how to penetrate your systems, or at least we think we know.
+
+  - icon : ti-lock # themify icon pack : https://themify.me/themify-icons
+    title : Secure
+    content : Your security it's our major concern, that's why we'll run a ransomware after the Pentest to encrypt your data and store it securely.

@@ -1,0 +1,19 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : SpyWare
+      icon : ti-star # themify icon pack : https://themify.me/themify-icons
+      content : Do you think your girlfriend or your boyfriend is chatting with someones else? We will get all the conversations!
+      
+    # service item loop
+    - name : Pentest
+      icon : ti-target # themify icon pack : https://themify.me/themify-icons
+      content : We will simulate an attack to discover some of the known vulnerabilities that your system can have.
+      
+    # service item loop
+    - name : Ransomware Encryption
+      icon : ti-shield # themify icon pack : https://themify.me/themify-icons
+      content : We will encrypt all your data in less than 5 minutes with a powerful encryption system that not even we can decrypt.
