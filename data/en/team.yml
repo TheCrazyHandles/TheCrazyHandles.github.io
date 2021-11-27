@@ -9,11 +9,11 @@ team:
       designation : CEO (Career Ending Opportunity)/CTF Player/Hire me pls
       content : The Guy, The Mith, The Yeti, hacking systems from the "Culo del mundo (A.K.A. Poland)" with -20°C each winter. Always ready to make a write up or a page for a shitty company.
       social :
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt 
           link : "https://twitter.com/lanfran02"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin 
           link : "https://linkedin.com/in/joaquin-lanfranconi"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github 
           link : "https://github.com/lanfran02"
         
     # team member loop
@@ -22,24 +22,24 @@ team:
       designation : CS:GO Competitive Player
       content : Directly from the Great Nation of Tucuman, he is one of the most valuable members for the After-work's CS:GO matches, knows just a little of CyberSecurity.
       social :
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://linkedin.com/in/"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/"
+        - icon : ti-twitter-alt 
+          link : "https://twitter.com/AgustinOrella11"
+        - icon : ti-linkedin 
+          link : "https://linkedin.com/in/agustin-orellana-mario/"
+        - icon : ti-github 
+          link : "https://github.com/Temerio"
         
     # team member loop
-    - name : Ignacio "cu_ouz" Apellido
+    - name : Nacho "cu_ouz"
       image : images/team/team-3.jpg
       designation : Unknown
       content : REDACTED For security. He/She is a hacker in the black list of the FBI, NSI, CIA, EXE, ZIP, BAK, PHP, HTML and many other file extensions.
       social :
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt 
           link : "https://twitter.com/"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin 
           link : "https://linkedin.com/in/"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github 
           link : "https://github.com/"
 
     - name : Michael Jackson
@@ -48,41 +48,32 @@ team:
       content : The king of Pop, creator of the Ayuwoki. He is the inspiration of the company, we're always listening to it when we are hacking any client.
 
 
-    - name : Mati Baghdarasian
+    - name : Mati Baghda
       image : images/team/team-4.jpg
       designation : CTO (Chief Thief Officer)
       content : With directly lineage of Armenia, fan of System of a Down and sells women's overpriced underwear. The best hacker of his house (Lives alone).
       social :
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://linkedin.com/in/"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt 
+          link : "https://twitter.com/matibaghda"
+        - icon : ti-linkedin 
+          link : "https://linkedin.com/in/matias-baghdassarian"
+        - icon : ti-github 
           link : "https://github.com/"
 
     # team member loop
-    - name : Boris "The Pilot" Bialus
+    - name : Boris "The Pilot" Biaus
       image : images/team/team-5.jpg
       designation : CTC (Chief Toilets Cleaner)
       content : A pilot, working in everything but Aviation. The one from the end of the world, gives this company some really clean toilets.
       social :
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt 
           link : "https://twitter.com/"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin 
           link : "https://linkedin.com/in/"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/"
+        - icon : ti-github 
+          link : "https://github.com/bbiaus"
 
     - name : Linus Torvalds
       image : images/team/linus.jpg
       designation : Windows Creator
       content : He is not part of the team, but we really like him. Created the best Operative System in the word, MacOS.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
