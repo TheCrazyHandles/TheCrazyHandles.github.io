@@ -1,6 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "The Crazy Handle"
+title = "The Crazy Handles"
 theme = "meghna-hugo"
 # post pagination
 paginate = "5"
