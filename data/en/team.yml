@@ -6,6 +6,7 @@ team:
     # team member loop
     - name : Joaquin "Lanfran" Lanfranconi
       image : images/team/team-1.jpg
+      image_webp : images/team/team-1.webp
       designation : CEO (Career Ending Opportunity)/CTF Player/Hire me pls
       content : The Guy, The Mith, The Yeti, hacking systems from the "Culo del mundo (A.K.A. Poland)" with -20°C each winter. Always ready to make a write up or a page for a shitty company.
       social :
@@ -19,6 +20,7 @@ team:
     # team member loop
     - name : Agustin "Temerio" Orellana
       image : images/team/team-2.jpg
+      image_webp : images/team/team-2.webp
       designation : CS:GO Competitive Player
       content : Directly from the Great Nation of Tucuman, he is one of the most valuable members for the After-work's CS:GO matches, knows just a little of CyberSecurity.
       social :
@@ -32,6 +34,7 @@ team:
     # team member loop
     - name : Nacho "cu_ouz"
       image : images/team/team-3.jpg
+      image_webp : images/team/team-3.webp
       designation : Unknown
       content : REDACTED For security. He/She is a hacker in the black list of the FBI, NSI, CIA, EXE, ZIP, BAK, PHP, HTML and many other file extensions.
       social :
@@ -44,12 +47,14 @@ team:
 
     - name : Michael Jackson
       image : images/team/michael.jpg
+      image_webp : images/team/michael.webp
       designation : KOP (King Of Pop) 
       content : The king of Pop, creator of the Ayuwoki. He is the inspiration of the company, we're always listening to it when we are hacking any client.
 
 
     - name : Mati Baghda
       image : images/team/team-4.jpg
+      image_webp : images/team/team-4.webp
       designation : CTO (Chief Thief Officer)
       content : With directly lineage of Armenia, fan of System of a Down and sells women's overpriced underwear. The best hacker of his house (Lives alone).
       social :
@@ -63,6 +68,7 @@ team:
     # team member loop
     - name : Boris "The Pilot" Biaus
       image : images/team/team-5.jpg
+      image_webp : images/team/team-5.webp
       designation : CTC (Chief Toilets Cleaner)
       content : A pilot, working in everything but Aviation. The one from the end of the world, gives this company some really clean toilets.
       social :
@@ -75,5 +81,6 @@ team:
 
     - name : Linus Torvalds
       image : images/team/linus.jpg
+      image_webp : images/team/linus.webp
       designation : Windows Creator
       content : He is not part of the team, but we really like him. Created the best Operative System in the word, MacOS.
