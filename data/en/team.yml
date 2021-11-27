@@ -40,7 +40,7 @@ team:
         - icon : ti-linkedin 
           link : "https://linkedin.com/in/"
         - icon : ti-github 
-          link : "https://github.com/"
+          link : "https://github.com/cuo-uz"
 
     - name : Michael Jackson
       image : images/team/michael.jpg
@@ -58,7 +58,7 @@ team:
         - icon : ti-linkedin 
           link : "https://linkedin.com/in/matias-baghdassarian"
         - icon : ti-github 
-          link : "https://github.com/"
+          link : "https://github.com/ma77hews"
 
     # team member loop
     - name : Boris "The Pilot" Biaus
