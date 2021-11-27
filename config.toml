@@ -66,39 +66,12 @@ name = "Contact"
 url = "#contact"
 weight = 5
 
-################### Spanish Navigation ########################
-
-[[Languages.es.menu.main]]
-name = "Sobre nosotoros"
-url = "#about"
-weight = 1
-
-[[Languages.es.menu.main]]
-name = "Servicios"
-url = "#services"
-weight = 2
-
-[[Languages.es.menu.main]]
-name = "Equipo"
-url = "#team"
-weight = 3
-
-[[Languages.es.menu.main]]
-name = "Precios"
-url = "#pricing"
-weight = 4
-
-[[Languages.es.menu.main]]
-name = "Contacto"
-url = "#contact"
-weight = 5
-
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Penetration tests services offered by a not so common company."
+author = "The Crazy Handle"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -118,34 +91,22 @@ expire_days = 2
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "38.8983022731509"
+map_longitude = "-77.01583857686292"
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "https://github.com/rick/roll"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/rickroll"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
 
 ################################ English Language ########################
@@ -155,13 +116,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-
-################################ France Language ########################
-[Languages.es]
-languageName = "Es"
-languageCode = "es-mx"
-contentDir = "content/spanish"
-weight = 2
-home = "Inicio"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"

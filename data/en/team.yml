@@ -4,87 +4,79 @@ team:
   title : Our Team
   team_member :
     # team member loop
-    - name : Joaquin Lanfranconi
+    - name : Joaquin "Lanfran" Lanfranconi
       image : images/team/team-1.jpg
-      designation : CEO/Founder
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : CEO (Career Ending Opportunity)/CTF Player/Hire me pls
+      content : The Guy, The Mith, The Yeti, hacking systems from the "Culo del mundo (A.K.A. Poland)" with -20°C each winter. Always ready to make a write up or a page for a shitty company.
       social :
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://twitter.com/lanfran02"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://linkedin.com/in/joaquin-lanfranconi"
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://github.com/lanfran02"
         
     # team member loop
-    - name : Frank Miller
-      image_webp : images/team/team-2.webp
+    - name : Agustin "Temerio" Orellana
       image : images/team/team-2.jpg
-      designation : Manager
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : CS:GO Competitive Player
+      content : Directly from the Great Nation of Tucuman, he is one of the most valuable members for the After-work's CS:GO matches, knows just a little of CyberSecurity.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://twitter.com/"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://linkedin.com/in/"
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://github.com/"
         
     # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
+    - name : Ignacio "cu_ouz" Apellido
       image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : Unknown
+      content : REDACTED For security. He/She is a hacker in the black list of the FBI, NSI, CIA, EXE, ZIP, BAK, PHP, HTML and many other file extensions.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://twitter.com/"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://linkedin.com/in/"
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
+          link : "https://github.com/"
+
+    - name : Michael Jackson
+      image : images/team/michael.jpg
+      designation : KOP (King Of Pop) 
+      content : The king of Pop, creator of the Ayuwoki. He is the inspiration of the company, we're always listening to it when we are hacking any client.
+
+
+    - name : Mati Baghdarasian
       image : images/team/team-4.jpg
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : CTO (Chief Thief Officer)
+      content : With directly lineage of Armenia, fan of System of a Down and sells women's overpriced underwear. The best hacker of his house (Lives alone).
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://twitter.com/"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://linkedin.com/in/"
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://github.com/"
 
     # team member loop
-    - name : Este sería boris
-      image_webp : images/team/team-5.webp
+    - name : Boris "The Pilot" Bialus
       image : images/team/team-5.jpg
-      designation : SEO Specialist
-      content : Pero no paso la foto
+      designation : CTC (Chief Toilets Cleaner)
+      content : A pilot, working in everything but Aviation. The one from the end of the world, gives this company some really clean toilets.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://twitter.com/"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://linkedin.com/in/"
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://github.com/"
 
     - name : Linus Torvalds
-      image_webp : images/team/team-5.webp
-      image : images/team/team-5.jpg
+      image : images/team/linus.jpg
       designation : Windows Creator
-      content : He is not part of the team, but we really like him.
+      content : He is not part of the team, but we really like him. Created the best Operative System in the word, MacOS.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"

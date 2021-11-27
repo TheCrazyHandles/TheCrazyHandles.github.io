@@ -8,7 +8,7 @@ contact:
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "450 Golden Gate Avenue, 13th Floor. San Francisco, CA"
+      info : "601 4th St NW, Washington, DC 20535, United States"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +1 (202) 324-3000"

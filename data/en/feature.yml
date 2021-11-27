@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : We’re a very new security company
+  content : "We come from the dark side to bring new Cybersecurity techniques and tactics for your company."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Expensive AF
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : Yes, we know that we are expensive, but you won't find any other ordinary company as this one.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Easy Understandable
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Our reports are written as a 5 years old kid will write a history for school, easy understandable by everybody.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Optimized
+      icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
+      content : We run some tools that Kali-linux has already installed, and we send you the report after that, no time wasting.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Drama Free
+      icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
+      content : If we break something of your infrastructure or application, you will be the one responsible to fix it, no drama for us.
